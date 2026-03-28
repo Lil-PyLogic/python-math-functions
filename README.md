@@ -11,7 +11,7 @@ A collection of Python functions to calculate the area of geometric shapes.
 - Circle Area Calculator
 
 ## How to Use
-Run: python SOAL_3.py
+Run: python-math-functions_3.py
 
 ## Tech Stack
 - Python 3
